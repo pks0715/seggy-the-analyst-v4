@@ -9,7 +9,7 @@ import io
 app = Flask(__name__)
 
 # OpenRouter Configuration
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 DEEPSEEK_R1_MODEL = "deepseek/deepseek-r1"
 
